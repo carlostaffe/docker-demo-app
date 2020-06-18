@@ -1,4 +1,4 @@
-#framewok flask en alpine (ver Dockerfile) y redis (ver docker-compose.yaml)
+#framewok flask en alpine (ver Dockerfile para el agregado de dlask) y redis (ver docker-compose.yaml como los ejecuta a los dos)
 import time
 
 import redis
